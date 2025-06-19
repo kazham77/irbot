@@ -10,4 +10,6 @@ IR remote control to substitute all these buttons and delays between presses. So
 press B button, the device emits all those mentioned IR codes and turns my screen off.
 
 Firmware was made for ESP12F based boards, but, obviously, can be adopted almost for every
-ESP device.
+ESP device. Presonally, I prefer this device:
+
+![ESP12F based board with IR RX/TX capabilities](https://github.com/kazham77/irbot/blob/main/ESP12F_IR_RX_TX.webp "ESP12F based IR RX/TX board")
